@@ -6,4 +6,5 @@ def test_add():
     assert main.add(1,8) == 9
     assert main.add(1,8) == 12
     assert main.add(1,4) == 5
+    assert main.add(1, 1) == 2
     
